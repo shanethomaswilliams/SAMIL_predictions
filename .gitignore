@@ -3,3 +3,4 @@ test
 *.tar
 *.pkl
 *.npy
+src/__pycache__
